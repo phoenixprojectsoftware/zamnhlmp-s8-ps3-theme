@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme>
+  <icontable>
+    <icon id="icon_user" src="icon_user_1.gim.png" />
+    <icon id="icon_newuser" src="icon_newuser_1.gim.png" />
+    <icon id="icon_poweroff" src="icon_poweroff_1.gim.png" />
+    <icon id="icon_setting" src="icon_setting_1.gim.png" />
+    <icon id="icon_update" src="icon_update_1.gim.png" />
+    <icon id="icon_game_setting" src="icon_game_setting_1.gim.png" />
+    <icon id="icon_bdvd_setting" src="icon_video_1.gim.png" />
+    <icon id="icon_music_setting" src="icon_music_setting_1.gim.png" />
+    <icon id="icon_chat_setting" src="icon_chat_setting_1.gim.png" />
+    <icon id="icon_system_setting" src="icon_system_setting_1.gim.png" />
+    <icon id="icon_theme_setting" src="icon_theme_setting_1.gim.png" />
+    <icon id="icon_datetime_setting" src="icon_datetime_setting_1.gim.png" />
+    <icon id="icon_accessory" src="icon_accessory_1.gim.png" />
+    <icon id="icon_powersave_setting" src="icon_powersave_setting_1.gim.png" />
+    <icon id="icon_printer_setting" src="icon_printer_setting_1.gim.png" />
+    <icon id="icon_display_setting" src="icon_display_setting_1.gim.png" />
+    <icon id="icon_sound_setting" src="icon_sound_setting_1.gim.png" />
+    <icon id="icon_security_setting" src="icon_security_setting_1.gim.png" />
+    <icon id="icon_remoteplay_setting" src="icon_remoteplay_setting_1.gim.png" />
+    <icon id="icon_network_setting" src="icon_network_setting_1.gim.png" />
+    <icon id="icon_setting_item" src="icon_setting_item_1.gim.png" />
+    <icon id="icon_photo" src="icon_photo_1.gim.png" />
+    <icon id="icon_photo_default" src="icon_photo_default_1.gim.png" />
+    <icon id="icon_photo_album_default" src="icon_photo_album_default_1.gim.png" />
+    <icon id="icon_music" src="icon_music_1.gim.png" />
+    <icon id="icon_music_default" src="icon_music_default_1.gim.png" />
+    <icon id="icon_music_album_default" src="icon_music_album_default_1.gim.png" />
+    <icon id="icon_playing" src="icon_playing_1.gim.png" />
+    <icon id="icon_video" src="icon_video_1.gim.png" />
+    <icon id="icon_video_default" src="icon_video_default_1.gim.png" />
+    <icon id="icon_video_album_default" src="icon_video_album_default_1.gim.png" />
+    <icon id="icon_game" src="icon_game_1.gim.png" />
+    <icon id="icon_game_default" src="icon_game_default_1.gim.png" />
+    <icon id="icon_game_album_default" src="icon_game_album_default_1.gim.png" />
+    <icon id="icon_gamedata" src="icon_gamedata_1.gim.png" />
+    <icon id="icon_vmc" src="icon_vmc_1.gim.png" />
+    <icon id="icon_newvmc" src="icon_newvmc_1.gim.png" />
+    <icon id="icon_savedata" src="icon_savedata_1.gim.png" />
+    <icon id="icon_trophy" src="icon_trophy_1.gim.png" />
+    <icon id="icon_network" src="icon_network_1.gim.png" />
+    <icon id="icon_onlinemanual" src="icon_onlinemanual_1.gim.png" />
+    <icon id="icon_remoteplay" src="icon_remoteplay_1.gim.png" />
+    <icon id="icon_browser" src="icon_browser_1.gim.png" />
+    <icon id="icon_download" src="icon_download_1.gim.png" />
+    <icon id="icon_inet_search" src="icon_inet_search_1.gim.png" />
+    <icon id="icon_friend" src="icon_friend_1.gim.png" />
+    <icon id="icon_blocklist" src="icon_blocklist_1.gim.png" />
+    <icon id="icon_addfriend" src="icon_addfriend_1.gim.png" />
+    <icon id="icon_playermet" src="icon_playermet_1.gim.png" />
+    <icon id="icon_chat" src="icon_chat_1.gim.png" />
+    <icon id="icon_chatroom" src="icon_chatroom_text_1.gim.png" />
+    <icon id="icon_mbox" src="icon_mbox_1.gim.png" />
+    <icon id="icon_mbox_received" src="icon_mbox_received_1.gim.png" />
+    <icon id="icon_mbox_sent" src="icon_mbox_sent_1.gim.png" />
+    <icon id="icon_mbox_create" src="icon_mbox_create_1.gim.png" />
+    <icon id="icon_accountmanage" src="icon_accountmanage_1.gim.png" />
+    <icon id="icon_tv" src="icon_tv_1.gim.png" />
+    <icon id="icon_mediaserver_search" src="icon_mediaserver_search_1.gim.png" />
+    <icon id="icon_ms" src="icon_ms_1.gim.png" />
+    <icon id="icon_sd" src="icon_sd_1.gim.png" />
+    <icon id="icon_cf" src="icon_cf_1.gim.png" />
+    <icon id="icon_usb" src="icon_usb_1.gim.png" />
+    <icon id="icon_pspms" src="icon_psp_1.gim.png" />
+    <icon id="icon_usbcamera" src="icon_usbcamera_1.gim.png" />
+    <icon id="icon_playlist" src="icon_playlist_1.gim.png" />
+    <icon id="icon_playlist_add" src="icon_playlist_add_1.gim.png" />
+    <icon id="icon_default_h" src="icon_default_h_1.gim.png" />
+    <icon id="icon_default_v" src="icon_default_v_1.gim.png" />
+  </icontable>
+  <infotable>
+    <info name="Half-Life: ZAMNMP - Season 7: Black Ops Theme" icon="ThemeIcon.png" url="phoenixproject.cc" author="The Phoenix Project Software" authoricon="ThemeIcon.png" genre="Gaming" version="1.1" comment="undefined" preview="preview.png" />
+  </infotable>
+  <pointertable />
+  <bgimagetable>
+    <bgimage hd="Datacore.jpg" sd="DatacoreSD.jpg" />
+  </bgimagetable>
+  <font selection="0" />
+  <color selection="6" />
+  <notification />
+  <setable>
+    <se id="se_decide" left="ok.vag" right="ok.vag" />
+    <se id="se_cursor" left="cursor.vag" right="cursor.vag" />
+    <se id="se_system_ok" left="question.vag" right="question.vag" />
+    <se id="se_optionmenu" left="option.vag" right="option.vag" />
+    <se id="se_cancel" left="cancel.vag" right="cancel.vag" />
+  </setable>
+</theme>
